@@ -20,9 +20,13 @@ The files `package.ned`, `omnetpp.ini`, `filters.xml`, and `ospfconfig.xml` are 
 To run a project in OMNeT++, follow these steps:
 
 Step 1: Make sure that OMNeT++ is installed and configured correctly on your system.
+
 Step 2: Open/ Launch the OMNeT++ Integrated Development Environment (IDE) by using the desktop shortcut.
+
 Step 3: Import the project and INET in the IDE
+
 Step 4: Build the project to compile the simulation model and generate the necessary executable files. Right-click on the project folder in the IDE and select "Build Project" or use the build command from the toolbar.
+
 Step 5: To run the simulation, Right-click on the omnetpp.ini file or the project folder and select "Run As" > "OMNeT++ Simulation".
 Step 6: After that a new window of OMNeT++ Qtenv will open where a pop-up box “Set Up Inifile Configuration” will appear. You can select different experiments and click on “OK”.
 Step 7: To run the simulation click on the “RUN” button or select Run command from Simulate.
